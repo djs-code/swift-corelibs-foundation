@@ -124,7 +124,7 @@ As Foundation is a work in progress, not all methods and functionality are prese
 
     * `NSFileHandle` is mostly not yet implemented, excluding a few methods used for plutil.
     * `NSFileManager` is partially implemented.
-    * `NSTask` is not yet implemented.
+    * `NSTask` is partially implemented.
     * `NSBundle` is mostly not yet implemented. The CoreFoundation implementation of `CFBundle` is available to use.
     * `NSProcessInfo` is mostly implemented.
     * `NSThread` is fully implemented.
